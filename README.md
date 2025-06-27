@@ -18,8 +18,4 @@ https://github.com/user-attachments/assets/a8d337cc-012b-4341-8dde-12eb93466ab3
 - USB stick or a CD/DVD to boot the OS on. (4GB of space is what you *may* need, currently unsure as we run in a VM as of now.)
 - basic understanding of linux commands. (adding/removing packages, checking hardware with neofetch, & more since there is no GUI)
 
-## [ PROMO ] Accesibilty is a NEED
-
-Tech needs to be more accessible to people. To help support that mission please donate to my github sponsors or KO-FI account (check the sidebar of this repo) all your support will go to helping people get tech, or a way to get into tech!
-
 ## Media (coming soon.)
